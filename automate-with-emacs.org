@@ -37,5 +37,6 @@ To learn emacs to automate tedious tasks
 ** TODO Internet Skills for Disconnected People
 ** TODO Availability and Resources
 
-Acknowledgments
-References
+* References
+** Acknowledgments
+** References
