@@ -1,0 +1,41 @@
+* Objective
+
+To learn emacs to automate tedious tasks
+
+* Contents
+
+[[http://angg.twu.net/eev-article.html#three-kinds-of-interfaces][How to automate almost everything]]
+
+** TODO Abstract
+** TODO Three kinds of interfaces
+** TODO “Make each program do one thing well”
+** TODO Making programs receive commands
+** TODO Sending commands
+** TODO Hyperlinks
+** TODO Shorter Hyperlinks
+** TODO Keys for following hyperlinks and for going back
+** TODO Dangerous hyperlinks
+** TODO Generating Hyperlinks
+** TODO Returning from Hyperlinks
+** TODO Local copies of files from the internet
+** TODO Glyphs
+** TODO Compose Pairs
+** TODO Delimited regions
+** TODO Communication channels
+** TODO The Implementation of Communication Channels
+** TODO Anchors
+** TODO E-scripts
+** TODO Splitting eev.el
+** TODO Steps
+** TODO Sending lines to processes running in Emacs buffers
+** TODO Using eepitch to control unprepared shells
+** TODO Controlling debuggers with eepitch
+** TODO Two little languages for debugging
+** TODO Inspecting data in running programs
+** TODO E-scripting GDB with eepitch
+** TODO Big Modular E-scripts
+** TODO Internet Skills for Disconnected People
+** TODO Availability and Resources
+
+Acknowledgments
+References
